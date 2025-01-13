@@ -1,0 +1,13 @@
+body {
+  background-size: cover;  
+}
+
+table {
+  color: #FFFFFF;
+  border: 2px solid;
+  width: 60vw;
+}
+
+tr, td {
+  border: 1px solid;
+}
