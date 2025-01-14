@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(49, 49, 58);
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-family: 'Courier New';
+    font-weight: 400;
+}
+
+.red {
+    color: #a21616;
+}
+
+.blue {
+    color: midnightblue;
+}
+
